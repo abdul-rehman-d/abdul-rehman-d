@@ -1,5 +1,9 @@
 # Hi! I am Abdul Rehman!
-I am a software engineer and I work with JS/TS. I often work with React/React Native but I love Python and Go.
+A mediocre software engineer who:
+ - is obsessed with Linux
+ - works with JS/TS on his day job
+ - plays around with Go and Svelte and pretty much anything on side
+ - probably has a superiority complex instead of imposter syndrome
 
 ## Connect with me
 Message me on [Linkedin](https://www.linkedin.com/in/abdul-rehman-d/)
