@@ -4,6 +4,9 @@ A mediocre software engineer who:
  - works with JS/TS on his day job
  - plays around with Go and Svelte and pretty much anything on side
  - probably has a superiority complex instead of imposter syndrome
+ - actively wants to contribute to Open Source but
+    - has no time
+    - doesn't know where and how to start
 
 ## Connect with me
 Message me on [Linkedin](https://www.linkedin.com/in/abdul-rehman-d/)
