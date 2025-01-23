@@ -1,12 +1,9 @@
 # Hi! I am Abdul Rehman!
 A mediocre software engineer who:
  - is obsessed with Linux
- - works with JS/TS on his day job
+ - works with JS/TS on his day job (Senior Frontend Dev)
  - plays around with Go and Svelte and pretty much anything on side
- - probably has a superiority complex instead of imposter syndrome
- - actively wants to contribute to Open Source but
-    - has no time
-    - doesn't know where and how to start
+ - wants to make games but currently stuck in tutorial hell.
 
 ## Connect with me
 Message me on [Linkedin](https://www.linkedin.com/in/abdul-rehman-d/)
